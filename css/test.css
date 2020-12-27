@@ -1,0 +1,29 @@
+body{
+	background-color: lightblue;
+}
+h1{font-size: 20px;
+	color: teal;
+}
+
+h2{
+	color: darkblue;
+	font-size: 30px;
+}
+
+.big{
+	font-size: 50px;
+
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: black;
+}
+
+h1 span{
+	color: indianred;
+}
+		}
